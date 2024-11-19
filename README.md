@@ -1,1 +1,2 @@
-This a landing page project created using html and css.
+Landing Page Project
+This is a custom-designed landing page created using HTML and CSS. The page features a visually appealing and user-friendly layout, optimized for responsiveness across different devices. It includes engaging design elements and sections tailored for showcasing a specific product, service, or purpose. The project highlights skills in front-end web development and demonstrates the ability to create clean, professional web interfaces.
